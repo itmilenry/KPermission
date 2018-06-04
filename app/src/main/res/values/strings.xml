@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KPermission</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_perm1">Permission 1</string>
+    <string name="title_perm2">Permission 2</string>
+</resources>
